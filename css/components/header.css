@@ -10,12 +10,21 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+<<<<<<< HEAD
 	padding: 0.265rem 1.25rem;
+=======
+	padding: 12px 20px;
+>>>>>>> 22d01862413a7e4c83134aaaaed40d04e0a66149
 	background-color: #ffffff;
 }
 
 .logo img {
+<<<<<<< HEAD
 	height: 48px;
+=======
+	height: 32px;
+	width: 150px;
+>>>>>>> 22d01862413a7e4c83134aaaaed40d04e0a66149
 }
 
 .nav-center ul {
